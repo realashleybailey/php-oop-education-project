@@ -1,6 +1,6 @@
 # FruitExample - Apple class
 
-**File: src/FruitExample/Apple.php**
+**File: src/FruitExample/Apple.php**  
 **Updated: 27/03/2023**
 
 ## Introduction
@@ -10,18 +10,6 @@ This is a simple PHP code that demonstrates the use of OOP concepts to create a 
 ## Namespace
 
 The code is located in the `FruitExample` namespace. The purpose of namespaces is to prevent naming conflicts between different parts of the code.
-
-## Usage
-
-- To create a new instance of the Apple class, you need to pass two parameters to its constructor: `$name` and `$color`.
-
-```php
-// Create a new instance of the Apple class
-$apple = new Apple('Granny Smith', 'green');
-
-// Call the getColor() method to get the color of the apple
-$color = $apple->getColor(); // returns 'green'
-```
 
 ## Class Details
 
@@ -36,6 +24,18 @@ The `Apple` class inherits from the `Fruit` class, which is an abstract class th
 ### Encapsulation
 
 The `$color` property is declared as private, which means that it can only be accessed from within the `Apple` class. This is an example of encapsulation, which is a fundamental concept of OOP that allows you to protect the internal state of an object from outside interference.
+
+## Usage
+
+- To create a new instance of the Apple class, you need to pass two parameters to its constructor: `$name` and `$color`.
+
+```php
+// Create a new instance of the Apple class
+$apple = new Apple('Granny Smith', 'green');
+
+// Call the getColor() method to get the color of the apple
+$color = $apple->getColor(); // returns 'green'
+```
 
 ## Conclusion
 

@@ -1,6 +1,6 @@
 # FruitExample - Fruit Class
 
-**File: src/FruitExample/Fruit.php**
+**File: src/FruitExample/Fruit.php**  
 **Updated: 27/03/2023**
 
 ## Introduction
