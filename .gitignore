@@ -2,3 +2,4 @@
 vendor
 composer.lock
 .obsidian
+.DS_Store
