@@ -36,6 +36,7 @@ Each module contains a README file with instructions on how to use it. Follow th
 
 The code in these files defines several classes, interfaces, traits, and other constructs that demonstrate various object-oriented programming principles in PHP:
 
+### FruitExample
 - The `namespace` keyword is used to define a namespace for the example code.
 - The `$fruits` array is defined as an iterable to demonstrate the use of iterables in PHP.
 - The `Edible` interface is defined with a single method, `eat()`, which is implemented by the `Fruit` class.
