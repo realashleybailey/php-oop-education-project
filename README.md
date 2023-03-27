@@ -13,7 +13,8 @@ To get started with this project, you need to have the following installed on yo
 
 To install this project, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/realashleybailey/php-oop-education-project.git`.
+1. Clone the repository to your local machine using 
+`git clone https://github.com/realashleybailey/php-oop-education-project.git`.
 
 2. Run `composer install` to install the required dependencies.
 
